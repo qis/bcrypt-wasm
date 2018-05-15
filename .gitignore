@@ -1,0 +1,15 @@
+# Hidden Files
+.*
+!.clang-format
+!.gitignore
+
+# Build Files
+/build/
+
+# Install Files
+/bin/
+
+# Application
+/*.core
+/*.log
+/core
